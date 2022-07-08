@@ -13,4 +13,4 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 
 Icone foi adicionado a pagina web  
 Informações de login alteradas  
-Correção de textos da pagina
+Correção de textos da pagin
