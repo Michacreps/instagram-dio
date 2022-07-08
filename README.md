@@ -8,3 +8,9 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 🚀 Let's code! 🚀
+
+## Aterações feitas
+
+Icone foi adicionado a pagina web  
+Informções de login alteradas  
+Correção de textos da pagina
